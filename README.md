@@ -1,5 +1,6 @@
 # my-todo
 
+# DEPLOYED [HERE](https://vue-todo-omega.vercel.app/)
 ## Build Setup
 
 ```bash
